@@ -53,3 +53,4 @@ if __name__ == "__main__":
 
     # 运行函数
     move_files_to_folder(file_extensions, desktop_path, target_folder, keyword_data)
+    os.system('pause')
